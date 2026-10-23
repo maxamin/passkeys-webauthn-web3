@@ -1,0 +1,7 @@
+[book]
+title = "Passkeys and WebAuthn for Web3"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/passkeys-webauthn-web3"
